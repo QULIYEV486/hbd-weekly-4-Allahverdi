@@ -1,0 +1,130 @@
+.backround{
+    height: 100vh;
+    width: 100%;
+    background: linear-gradient(rgb(233, 23, 4) 0%, rgb(164, 49, 114) 35%, rgb(11, 38, 213) 100%)  
+}
+
+.umumi{
+    display: flex;
+
+}
+
+
+.img{
+    width: 200px;
+    height: 90px;
+    margin-left: 20px;
+    margin-top: -20px;
+    margin-inline-start: 100px;
+}
+
+.img1{
+    width: 200px;
+    height: 200px;
+    margin-top: 100px;    
+}
+
+
+.h1{
+    color: white;
+    margin-left: 10px;
+}
+
+.p1{
+    color: white;
+}
+
+.umumi2{
+    display: flex;
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    
+                                              
+}
+
+.img2{
+    width: 200px;
+    height: 200px;
+}
+
+.img3{
+    width: 200px;
+    height: 200px;
+}
+
+.img4{
+    width: 200px;
+    height: 200px;
+}
+
+.img5{
+    width: 200px;
+    height: 200px;
+}
+
+.img6{
+    width: 200px;
+    height: 200px;
+}
+
+.p2{
+    color: white;
+    margin-left: 90px;
+
+}
+
+.p3{
+    color: white;
+    margin-left: 360px;
+    margin-top: -35px;
+
+}
+
+.p4{
+    color: white;
+    margin-left: 610px;
+    margin-top: -35px;
+}
+
+.p5{
+    color: white;
+    margin-left: 787px;
+    margin-top: -35px;
+}
+
+.p6{
+    color: white;
+    margin-left: 1050px;
+    margin-top: -35px
+}
+
+.p7{ 
+    justify-content: center;
+    display: flex;
+    color: white;
+
+}
+
+
+.esas1{
+    justify-content: space-around
+}
+
+.button1{
+    color: black;
+    border: none;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.button2{
+    color: black;
+    border: none;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: white;
+
+
+}
